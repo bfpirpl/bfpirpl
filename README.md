@@ -1,16 +1,25 @@
-## Hi there 👋
+## Bret Friedrichs
 
-<!--
-**bfpirpl/bfpirpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security architect. Building something.
 
-Here are some ideas to get you started:
+Focused on Zero Trust architecture, detection engineering, 
+and security program development for organizations that 
+can't afford to get it wrong.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Background
+
+Big 4 · Fortune 200 · Higher Education  
+Microsoft Security · CrowdStrike · NIST CSF 2.0 · GLBA
+
+---
+
+### Currently
+
+Committing early infrastructure for a boutique security 
+consultancy. More soon.
+
+---
+
+💼 [LinkedIn](https://linkedin.com/in/bretfriedrich)
