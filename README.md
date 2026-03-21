@@ -22,4 +22,4 @@ consultancy. More soon.
 
 ---
 
-💼 [LinkedIn](https://linkedin.com/in/bretfriedrich)
+💼 [LinkedIn](https://linkedin.com/in/friedrichbret)
