@@ -1,4 +1,4 @@
-## Bret Friedrichs
+## Bret Friedrich
 
 Security architect. Building something.
 
@@ -11,7 +11,7 @@ can't afford to get it wrong.
 ### Background
 
 Big 4 · Fortune 200 · Higher Education  
-Microsoft Security · CrowdStrike · NIST CSF 2.0 · GLBA
+Microsoft Security · Google · CrowdStrike · NIST CSF 2.0 · GLBA
 
 ---
 
