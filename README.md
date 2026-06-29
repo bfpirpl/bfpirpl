@@ -1,25 +1,23 @@
 ## Bret Friedrich
+Security Architect · Deputy CISO
 
-Security architect. Building something.
-
-Focused on Zero Trust architecture, detection engineering, 
-and security program development for organizations that 
-can't afford to get it wrong.
+Building a boutique security governance practice. (stealth)
 
 ---
-
-### Background
-
-Big 4 · Fortune 200 · Higher Education  
-Microsoft Security · Google · CrowdStrike · NIST CSF 2.0 · GLBA
+### What I build
+Engagement runbooks · Detection libraries · Threat hunting playbooks  
+Governance frameworks · Policy sets · Cloud architecture · Tabletop exercises
 
 ---
-
-### Currently
-
-Committing early infrastructure for a boutique security 
-consultancy. More soon.
+### Focus Areas
+Zero Trust Architecture · GLBA Safeguards Rule · HIPAA · FERPA  
+Microsoft Security · NIST CSF 2.0 · CIS Controls v8 · Higher Education
 
 ---
+### Stack
+Microsoft Entra ID P2 · Defender XDR · Sentinel · Intune · Purview  
+CrowdStrike Falcon · Jamf Pro · GCP · Terraform · Cloudflare
 
+---
+### Find me
 💼 [LinkedIn](https://linkedin.com/in/friedrichbret)
