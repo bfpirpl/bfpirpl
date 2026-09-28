@@ -1,6 +1,6 @@
 ## Bret Friedrich
 
-Founder and Principal Consultant at **Pirpl Labs**.
+Founder and Principal Consultant at **[Pirpl Labs](https://github.com/pirpl-labs)**.
 
 Security architecture, GRC, cloud security, Zero Trust, and security program development.
 
