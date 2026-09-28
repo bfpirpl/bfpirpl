@@ -1,25 +1,9 @@
-## Bret Friedrichs
+## Bret Friedrich
 
-Security architect. Building something.
+Founder and Principal Consultant at **Pirpl Labs**.
 
-Focused on Zero Trust architecture, detection engineering, 
-and security program development for organizations that 
-can't afford to get it wrong.
+Security architecture, GRC, cloud security, Zero Trust, and security program development.
 
----
-
-### Background
-
-Big 4 · Fortune 200 · Higher Education  
-Microsoft Security · CrowdStrike · NIST CSF 2.0 · GLBA
-
----
-
-### Currently
-
-Committing early infrastructure for a boutique security 
-consultancy. More soon.
-
----
+This account is used for Pirpl Labs engineering, research, and repository contributions.
 
 💼 [LinkedIn](https://linkedin.com/in/bretfriedrich)
